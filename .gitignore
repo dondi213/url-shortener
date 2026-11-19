@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+.env
+.DS_Store
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+.env
+__pycache__/
